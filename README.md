@@ -27,6 +27,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
 
+## 🏢 Companies I've Worked For:
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="./Logos/Kenvue.png" alt="Kenvue" width="200"/>
+  <img src="./Logos/Johnson.png" alt="Johnson and Johnson" width="200"/>
+  <img src="./Logos/Delta.png" alt="Delta Airlines" width="200"/>
+  <img src="./Logos/AF.png" alt="AirFrance-KLM" width="200"/>
+</p>
+
 ## 📫 How to reach me:
 - Email: [info@quintero.cz](mailto:info@quintero.cz)
 - LinkedIn: [Iván Ruiz](https://www.linkedin.com/in/iván-r-a921b3164)
