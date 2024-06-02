@@ -1,5 +1,7 @@
 # Hi there! I'm Quintero 👋
 
+![Banner](./BannerQuintero.png)
+
 ## 🚀 About Me:
 - Passionate about technology and constantly learning new things.
 - Currently an Amazon Seller, focused on pet products.
