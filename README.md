@@ -27,6 +27,24 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
 
+## 🚀 My Projects:
+
+### [Project 1: Pairs game!](https://github.com/QuinteroDev/pairsGame)
+<img src="./images/pairs.png" alt="pairs" width="200"/>
+**Description:** Game of pairs. Built with Vite and JavaScript.
+
+### [Project 2: Logistic KPIs Dashboard](https://github.com/QuinteroDev/PowerBI_DataAnalysis)
+<img src="./images/dashboard.png" alt="pairs" width="200"/>
+**Description:** A powerful data visualization tool using DAX and Power BI to turn raw data into insightful charts and reports.
+
+### [Project 3: Responsive LandingPage](https://github.com/QuinteroDev/landingPage)
+<img src="./images/landingResponsive.png" alt="pairs" width="200"/>
+**Description:** Responsive landing page with different resolutions. Built with Vite and Scss.
+
+### [Project 4: Groceries LandingPage](https://github.com/QuinteroDev/landingGroceryStore)
+<img src="./images/landingGrocery.png" alt="pairs" width="200"/>
+**Description:** Static landing page of Grocery Store. Built with HTML and CSS.
+
 ## 🏢 Companies I've Worked For:
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="./Logos/Kenvue.png" alt="Kenvue" width="200"/>
@@ -43,3 +61,5 @@
 ## 📊 GitHub Stats:
 ![Quintero's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuinteroDev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuinteroDev&layout=compact&theme=radical)
+
+
