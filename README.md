@@ -5,7 +5,6 @@
 ## 🚀 About Me:
 - Passionate about technology and constantly learning new things.
 - Currently an Amazon Seller, focused on pet products.
-- Living in Prague, Czech Republic, originally from Spain.
 - Skilled in software development.
 - Experienced data analyst, recently certified in Microsoft Power BI.
 
