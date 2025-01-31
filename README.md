@@ -1,4 +1,4 @@
-# Bienvenido a mi portfolio! 👋
+# Bienvenido a mi Portfolio! 👋
 
 ![Banner](./banner.jpeg)
 
