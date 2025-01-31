@@ -2,7 +2,7 @@
 
 ![Banner](./banner.jpeg)
 
-## 🚀 About Me:
+## 🚀 Sobre Mí:
 
 ¡Hola! Soy Quintero, desarrollador freelance especializado en crear soluciones de productividad para el sector salud. Poseo una amplia experiencia en bases de datos y un stack tecnológico que incluye Django, Bootstrap, JavaScript, GitHub y PostgreSQL.
 
