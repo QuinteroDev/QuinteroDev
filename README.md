@@ -64,6 +64,7 @@ Pienso junto a tí. Propongo. Estructuro. Ejecuto.
 ✅ Exportación de datos en CSV y Excel con reportes avanzados.  
 🔹 **Tecnologías:** Django, PostgreSQL, Bootstrap, JavaScript, Environ.
 
+<img src="./images/diario.png" alt="Diario" width="200"/><img src="./images/notificacion.png" alt="Notificacion" width="200"/><img src="./images/recetas.png" alt="Recetas" width="200"/><img src="./images/protocolos.png" alt="Protocolos" width="200"/>
 ---
 
 
