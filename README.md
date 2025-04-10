@@ -1,23 +1,30 @@
-# Bienvenido a mi Portfolio! 👋
+# 👋 ¡Hola! Soy Iván Quintero
 
 ![Banner](./banner.jpeg)
 
-## 🚀 Sobre Mí:
+**Desarrollador-Consultor especializado en el sector salud.**  
+Construyo soluciones digitales a medida para clínicas, profesionales de salud y empresas que necesitan sistemas funcionales, escalables y centrados en el usuario real.
 
-¡Hola! Soy Quintero, desarrollador freelance especializado en crear soluciones de productividad para el sector salud. Poseo una amplia experiencia en bases de datos y un stack tecnológico que incluye Django, Bootstrap, JavaScript, GitHub y PostgreSQL.
+## 💼 ¿Qué hago?
 
-Mi enfoque principal es optimizar procesos y potenciar la eficiencia de mis clientes gracias a herramientas digitales diseñadas a la medida. Estoy convencido de que una buena arquitectura de datos y un desarrollo robusto son la base para lograr soluciones productivas y escalables.
+✅ Desarrollo plataformas completas con Django + JS + PostgreSQL  
+✅ Automatizo procesos con IA y herramientas de productividad  
+✅ Diseño dashboards de análisis clínico y operativo  
+✅ Actúo como puente entre la visión del negocio y la ejecución técnica
 
-Debido a la atención personalizada que ofrezco, solo trabajo con cuatro clientes por trimestre. De esta forma, puedo dedicar toda mi energía y experiencia a asegurar que cada proyecto alcance los objetivos planteados en tiempo y forma.
+## 🎯 Mi diferencia
 
-Fuera del ámbito profesional, me encanta explorar nuevas tecnologías y mantenerme en constante aprendizaje. Creo firmemente en la mejora continua tanto en mi vida laboral como personal, y disfruto colaborando en proyectos que representen un reto y un crecimiento mutuo.
+> **No soy solo un programador.**  
+> Soy el que entiende tu clínica, traduce tus ideas, y construye lo que realmente necesitas.
 
-¡Hablemos y construyamos juntos soluciones innovadoras!
+Trabajo con visión de producto, no solo de código.  
+Pienso junto a tí. Propongo. Estructuro. Ejecuto.
 
-## 🤝 Disponibilidad
-🔹 Actualmente tengo **plazas limitadas** (máximo 4 clientes por trimestre)  
-🔹 Si necesitas una solución de productividad en el sector salud, **hablemos**  
-📩 Contáctame en [info@quinterodev.com](mailto:info@quinterodev.com)
+## 🤝 ¿Cómo trabajo?
+
+🔹 Tengo un cupo muy lmimitado de clientes para ofrecer atención personalizada  
+🔹 Acompaño desde la estrategia hasta el desarrollo  
+🔹 Cada proyecto es tratado como si fuera mío
 
 ## 💼 **Habilidades:**
 
@@ -89,7 +96,7 @@ DJTemplates-Autocomplete es una extensión de Visual Studio Code diseñada para 
 
 ## 📫 Cómo contactarme:
 
-- Email: [info@quinterodev.com](mailto:info@quintero.cz)
+- Email: [info@quinterodev.com](mailto:info@quinterodev.com)
 - LinkedIn: [Iván Ruiz](www.linkedin.com/in/quinterodev)
 
 ## 📊 Estadísticas de GitHub:
