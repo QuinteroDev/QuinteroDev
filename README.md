@@ -51,6 +51,8 @@ Pienso junto a tí. Propongo. Estructuro. Ejecuto.
 ✅ Generación de informes personalizados y análisis avanzados de datos.  
 🔹 **Tecnologías:** Django, PostgreSQL, Bootstrap, JavaScript, Environ.
 
+<img src="./images/Prostata.png" alt="Prostata" width="200"/><img src="./images/Rinon.png" alt="Rinon" width="200"/><img src="./images/Litiasis.png" alt="litiasis" width="200"/><img src="./images/Urotelio.png" alt="Urotelio" width="200"/>
+
 ---
 
 ### 🏥 [Plataforma para Clínica de Patologías Digestivas - Estudio de Caso](https://github.com/quinterodev/clinica_digestiva_estudiocaso)
