@@ -25,7 +25,8 @@ Full-stack application for Spanish freelancers to manage their quarterly tax obl
 
 ---
 
-### [Django Template Pro](https://marketplace.visualstudio.com/items?itemName=quinterodev.djtemplates-autocomplete) - VS Code Extension
+### Django Template Pro - VS Code Extension
+[GitHub (v1.0.0 - Latest)](https://github.com/QuinteroDev/djtemplates-autocomplete) | [Marketplace (v0.0.2 - Outdated)](https://marketplace.visualstudio.com/items?itemName=quinterodev.djtemplates-autocomplete)
 Enhanced Django template snippets extension with 50+ intelligent snippets for faster development.
 
 **Features:**
