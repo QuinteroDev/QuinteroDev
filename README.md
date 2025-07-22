@@ -11,6 +11,10 @@ React, Node.js, PostgreSQL, Python/Django
 ### [HelpTax](https://github.com/QuinteroDev/helptax) - Tax Management System for Freelancers
 Full-stack application for Spanish freelancers to manage their quarterly tax obligations. Built with React + TypeScript and Django REST Framework.
 
+| Dashboard | Income Management | Quarterly Summary |
+|:---------:|:-----------------:|:-----------------:|
+| ![Dashboard](https://github.com/QuinteroDev/helptax/blob/main/screenshots/dashboard.png) | ![Ingresos](https://github.com/QuinteroDev/helptax/blob/main/screenshots/ingresos.png) | ![Resumen](https://github.com/QuinteroDev/helptax/blob/main/screenshots/resumen.png) |
+
 **Features:**
 - 📊 Real-time dashboard with annual metrics
 - 💰 Income and expense tracking with automatic VAT/IRPF calculations  
