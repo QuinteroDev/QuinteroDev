@@ -6,7 +6,7 @@ Software developer. I build web applications for businesses.
 
 React, Node.js, PostgreSQL, Python/Django
 
-## Projects
+## Key Projects
 
 ### [HelpTax](https://github.com/QuinteroDev/helptax) - Tax Management System for Freelancers
 Full-stack application for Spanish freelancers to manage their quarterly tax obligations. Built with React + TypeScript and Django REST Framework.
