@@ -1,9 +1,8 @@
-# Iván Quintero
+# Iván Ruiz Quintero
 
 Software developer. I build web applications for businesses.
 
 ## Current Stack
-
 React, Node.js, PostgreSQL, Python/Django
 
 ## Key Projects
@@ -26,10 +25,21 @@ Full-stack application for Spanish freelancers to manage their quarterly tax obl
 
 ---
 
-[VS Code Extension] - Django template autocomplete
+### [Django Template Pro](https://marketplace.visualstudio.com/items?itemName=quinterodev.djtemplates-autocomplete) - VS Code Extension
+Enhanced Django template snippets extension with 50+ intelligent snippets for faster development.
+
+**Features:**
+- 🚀 50+ production-ready snippets for Django templates
+- ⚡ Smart prefixes for quick access
+- 🎯 Covers forms, filters, template tags, pagination, and more
+- 📦 Zero configuration required
+- 💻 316+ active installations
+
+**Tech:** TypeScript, VS Code Extension API
+
+---
 
 [PowerBI_DataAnalysis] - Data visualization projects
 
 ## Contact
-
 info@quinterodev.com
