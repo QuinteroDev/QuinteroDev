@@ -5,7 +5,18 @@ Enfoque en healthtech y SaaS B2B.
 
 ## Stack Actual
 
-Django, React, PostgreSQL, OpenAI, RAG, OpenCV, AWS
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+## 🚀 Actualmente
+- 🏥 Escalando UroData a nuevos hospitales en LATAM
+- 🤖 Implementando RAG para análisis de historiales médicos
+- 📱 Desarrollando v2.0 de Gastro Assistant con IA predictiva
 
 ## Proyectos Principales
 
@@ -84,6 +95,9 @@ Aplicación móvil para el manejo personalizado del reflujo gastroesofágico med
 - **2024-Presente**: Full Stack Developer (Autónomo)
 - **2019-2024**: Data Analyst - Johnson & Johnson (Praga)
 - **2016-2019**: Logistics Coordinator - Air France/KLM/Delta
+
+## GitHub Stats
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=QuinteroDev&theme=dark)
 
 ## Contacto
 
