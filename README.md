@@ -20,6 +20,8 @@ SaaS médico internacional con IA integrada. +10.000 pacientes, 40 hospitales en
 
 **Tech:** Django 5.0, PostgreSQL, OpenAI API, RAG/Embeddings, AWS EC2/RDS
 
+---
+
 ### [Kidsy](https://github.com/QuinteroDev/kidsy-case-study) - Sistema de Privacidad con Computer Vision
 
 Plataforma de procesamiento de video con pixelado facial selectivo mediante IA. Sistema de autorización multinivel para despixelado.
@@ -29,6 +31,8 @@ Plataforma de procesamiento de video con pixelado facial selectivo mediante IA. 
 - **Arquitectura**: Sistema distribuido para múltiples streams concurrentes
 
 **Tech:** Python, OpenCV, InsightFace, RTSP, WebRTC, React Native
+
+---
 
 ### [HelpTax](https://github.com/QuinteroDev/helptax) - Tax Management System for Freelancers
 Full-stack application for Spanish freelancers to manage their quarterly tax obligations. Built with React + TypeScript and Django REST Framework.
@@ -64,7 +68,15 @@ Enhanced Django template snippets extension with 50+ intelligent snippets for fa
 
 ---
 
-[PowerBI_DataAnalysis] - Data visualization projects
+### [Gastro Assistant](https://github.com/QuinteroDev/gastro-assistant) - App de Salud Digestiva
+Aplicación móvil para el manejo personalizado del reflujo gastroesofágico mediante fenotipado algorítmico.
+- **Disponible en**: Google Play y App Store
+- **Fenotipado inteligente**: Clasificación mediante cuestionarios GERD-Q y RSI
+- **Tracking de hábitos**: Seguimiento de los 5 factores más críticos
+- **Gamificación**: Sistema de medallas y desbloqueo de contenido
+- **Contenido educativo**: Sección "Aprende" con información actualizada
+
+**Tech:** React Native, TypeScript, Django, PostgreSQL
 
 ## Contact
 info@quinterodev.com
