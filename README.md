@@ -69,7 +69,9 @@ Enhanced Django template snippets extension with 50+ intelligent snippets for fa
 ---
 
 ### [Gastro Assistant](https://github.com/QuinteroDev/gastro-assistant) - App de Salud Digestiva
+
 Aplicación móvil para el manejo personalizado del reflujo gastroesofágico mediante fenotipado algorítmico.
+
 - **Disponible en**: Google Play y App Store
 - **Fenotipado inteligente**: Clasificación mediante cuestionarios GERD-Q y RSI
 - **Tracking de hábitos**: Seguimiento de los 5 factores más críticos
@@ -77,6 +79,18 @@ Aplicación móvil para el manejo personalizado del reflujo gastroesofágico med
 - **Contenido educativo**: Sección "Aprende" con información actualizada
 
 **Tech:** React Native, TypeScript, Django, PostgreSQL
+
+## Experience
+
+- **2024-Presente**: Full Stack Developer (Autónomo)
+- **2019-2024**: Data Analyst - Johnson & Johnson (Prague)
+- **2016-2019**: Logistics Coordinator - Air France/KLM/Delta
+
+## Contact
+
+📧 info@quinterodev.com  
+📍 Málaga, España  
+🔗 [LinkedIn](https://www.linkedin.com/in/quinterodev/) | [Malt](https://www.malt.es/profile/ivanruizquintero)
 
 ## Contact
 info@quinterodev.com
