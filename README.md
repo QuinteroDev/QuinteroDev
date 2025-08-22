@@ -9,6 +9,15 @@ Django, React, PostgreSQL, OpenAI, RAG, OpenCV, AWS
 
 ## Key Projects
 
+### 🏥 [UroData](https://github.com/QuinteroDev/urodata-case-study) - International Medical Platform
+SaaS médico internacional con IA integrada. +10.000 pacientes, 40 hospitales en España, Chile, México, Brasil.
+- **IA Médica**: Chatbot con guías EAU 2025, búsqueda en lenguaje natural
+- **Multi-tenant**: Aislamiento completo por institución
+- **Analytics**: Dashboard builder automático con IA
+- **Convenio IVO**: Partnership con Instituto Valenciano de Oncología
+
+**Tech:** Django 5.0, PostgreSQL, OpenAI API, RAG/Embeddings, AWS EC2/RDS
+
 ### [HelpTax](https://github.com/QuinteroDev/helptax) - Tax Management System for Freelancers
 Full-stack application for Spanish freelancers to manage their quarterly tax obligations. Built with React + TypeScript and Django REST Framework.
 
