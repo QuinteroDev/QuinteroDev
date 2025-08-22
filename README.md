@@ -1,9 +1,11 @@
 # Iván Ruiz Quintero
 
-Software developer. I build web applications for businesses.
+Desarrollo software que funciona en producción.
+Enfoque en healthtech y SaaS B2B.
 
 ## Current Stack
-React, Node.js, PostgreSQL, Python/Django
+
+Django, React, PostgreSQL, OpenAI, RAG, OpenCV, AWS
 
 ## Key Projects
 
