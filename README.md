@@ -68,7 +68,7 @@ Extensión mejorada de snippets para Django con más de 50 snippets inteligentes
 
 ---
 
-### [Gastro Assistant](https://github.com/QuinteroDev/gastro-assistant) - App de Salud Digestiva
+### [Gastro Assistant](https://github.com/QuinteroDev/gastro-assistant-study) - App de Salud Digestiva
 
 Aplicación móvil para el manejo personalizado del reflujo gastroesofágico mediante fenotipado algorítmico.
 - **Disponible en**: Google Play y App Store
