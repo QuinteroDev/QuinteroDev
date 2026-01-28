@@ -13,22 +13,8 @@ Enfoque en healthtech y SaaS B2B.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-## 🚀 Actualmente
-- 🏥 Escalando UroData a nuevos hospitales en LATAM
-- 🤖 Implementando RAG para análisis de historiales médicos
-- 📱 Desarrollando v2.0 de Gastro Assistant con IA predictiva
 
 ## Proyectos Principales
-
-### [UroData](https://github.com/QuinteroDev/urodata-case-study) - Plataforma Médica Internacional
-
-SaaS médico internacional con IA integrada. +10.000 pacientes, 40 hospitales en España, Chile, México, Brasil.
-- **IA Médica**: Chatbot con guías EAU 2025, búsqueda en lenguaje natural
-- **Multi-tenant**: Aislamiento completo por institución
-- **Analytics**: Dashboard builder automático con IA
-- **Convenio IVO**: Partnership con Instituto Valenciano de Oncología
-
-**Tech:** Django 5.0, PostgreSQL, OpenAI API, RAG/Embeddings, AWS EC2/RDS
 
 ---
 
