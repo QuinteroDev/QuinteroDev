@@ -9,7 +9,7 @@ LLMs: OpenAI · LangChain · LangGraph · Pipecat
 
 ### Proyectos públicos
 - **[GastroAssistant](https://apps.apple.com/app/id6746050155)**: app de salud digestiva en App Store y Google Play. Motor de decisión clínica con cuestionarios validados. *React Native, Django REST, PostgreSQL*
-- **[DJTemplates-Autocomplete](https://marketplace.visualstudio.com/items?itemName=quinterodev.djtemplates-autocomplete)**: extensión de VS Code para plantillas Django, cerca de 500 instalaciones. *TypeScript*
+- **[DJTemplates-Autocomplete](https://marketplace.visualstudio.com/items?itemName=quinterodev.djtemplates-autocomplete)**: extensión de VS Code para plantillas Django, más de 500 instalaciones. *TypeScript*
 
 ### Contacto
 [LinkedIn](https://linkedin.com/in/quinterodev) · Málaga
